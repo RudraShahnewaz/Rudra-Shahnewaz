@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rudra-Shahnewaz/Rudra-Shahnewaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Rudra Shahnewaz! 👋
 
-Here are some ideas to get you started:
+### ⚡ Electrical & Electronic Engineering (EEE) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Exploring circuits, code, and everything in between.*
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+- 🎓 Currently studying **Electrical & Electronic Engineering (EEE)**
+- 🌱 Learning the ropes of programming, problem-solving, and engineering fundamentals
+- 💡 Building my foundation one lab, line of code, and spreadsheet at a time
+- 📫 Reach out to me: [LinkedIn](YOUR-LINK-HERE) • [Email](mailto:YOUR-EMAIL-HERE)
+
+---
+
+### ⚡ Fun Facts & Life Outside Code
+- ☕ Powered by **5–6 cups of coffee** a day
+- 🏴‍☠️ Massive **One Piece** fan — always down to talk about the Grand Line
+- 🎬 Love unwinding with a good **movie**
+- 🔧 Chronic tinkerer — I love **building things** (and accidentally **breaking them** just to figure out how they work)
+
+---
+
+### 🛠️ Skills & Tools
+
+**Programming**
+![C++](https://shields.io)
+
+**Productivity & Documentation**
+![Microsoft Word](https://shields.io)
+![Microsoft Excel](https://shields.io)
+
+---
+
+### 🚀 Projects
+*Currently focusing on my EEE coursework and C++ basics—exciting hardware and coding projects coming soon!* 🛠️
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Rudra's GitHub Stats](https://vercel.app)
+
+</div>
