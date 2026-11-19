@@ -28,8 +28,11 @@
 
 ### 🛠️ Skills & Tools
 
-**Programming**
+**Programming & Simulation**
 ![C++](https://shields.io)
+![MATLAB](https://shields.io)
+![Multisim](https://shields.io)
+
 
 **Productivity & Documentation**
 ![Microsoft Word](https://shields.io)
@@ -38,7 +41,7 @@
 ---
 
 ### 🚀 Projects
-*Currently focusing on my EEE coursework and C++ basics—exciting hardware and coding projects coming soon!* 🛠️
+*Currently focusing on my EEE coursework, lab work, and C++ basics—hardware and coding projects coming soon!* 🛠️
 
 ---
 
