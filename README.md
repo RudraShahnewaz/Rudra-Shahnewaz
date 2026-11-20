@@ -14,7 +14,7 @@
 - 🎓 Currently studying **Electrical & Electronic Engineering (EEE)**
 - 🌱 Learning the ropes of programming, problem-solving, and engineering fundamentals
 - 💡 Building my foundation one lab, line of code, and spreadsheet at a time
-- 📫 Reach out to me: [LinkedIn](YOUR-LINK-HERE) • [Email](mailto:YOUR-EMAIL-HERE)
+- 📫 Reach out to me: [LinkedIn](www.linkedin.com/in/rudra-shahnewaz-00679b364) • [Email](rudra.shahnewaz.253@northsouth.edu)
 
 ---
 
